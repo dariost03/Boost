@@ -1,0 +1,23 @@
+:root {
+    --theme-color: #040814;
+    --primary-color: #b469ff;
+    --secundary-color: #9a36ff;
+    --text-color-inverse: #0c193e;
+    --text-color: #cd9cff;
+    --navbar-shallow-color: #ffffff18;
+   }
+   
+   body {
+       font-family: 'Source Code Pro', monospace;
+       background-color: var(--theme-color);
+       color: var(--text-color);
+   }
+   
+   a {
+       text-decoration: none;
+       color: var(--text-color);
+   }
+
+   .statistics{
+       text-align: center;
+   }

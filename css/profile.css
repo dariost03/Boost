@@ -1,0 +1,25 @@
+.inicio{
+    text-align: center;
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 50px;
+}
+
+.inicio-title{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.inicio-text{
+    font-size: 20.11px;
+    text-align: center;
+}
+
+.inicio-img{
+    text-align: right;
+    height: 400px;
+    width: 400px;
+}
